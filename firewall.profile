@@ -1,4 +1,7 @@
-General]
+#!name=Firewall
+#!desc=Networking restrictions and DNS settings module for Surge v5 on iOS.
+
+[General]
 dns-server = 8.8.8.8, 8.8.4.4, 2001:4860:4860::8888, 2001:4860:4860::8844
 include-all-networks = true
 include-local-networks = true
